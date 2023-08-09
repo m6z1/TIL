@@ -3,7 +3,8 @@
 ### 개념
 
 ![큐이미지](image/queue.png)
-<center>출처 : 위키피디아 </center>
+
+<div align="center"> 출처 : 위키피디아</div>
 <br>
 
 큐(queue)는 '대기줄' 라는 의미를 가지고 있으며, 말그대로 대기줄처럼 쌓은 형태의 자료구조이다.
@@ -34,4 +35,5 @@
 
 ### 참고자료
 https://ko.wikipedia.org/wiki/%ED%81%90_%28%EC%9E%90%EB%A3%8C_%EA%B5%AC%EC%A1%B0%29
+<br>
 https://piaflu.tistory.com/41
